@@ -1,4 +1,4 @@
-:root {
+/*:root {
 --chat-color: #16171a;
 --accent-hsl: #16171a00;
 }
@@ -31,9 +31,9 @@
 .bd-switch input:checked + .bd-switch-body .bd-switch-slider .bd-switch-handle {
     fill: #4285F4;
 }
-/* fix end */
+ fix end */
 
-    .theme-dark {
-    --header-primary: #d01616;
-    --header-secondary: #1c4582;
-        }
+.theme-dark {
+--header-primary: #d01616;
+--header-secondary: #1c4582;
+}
