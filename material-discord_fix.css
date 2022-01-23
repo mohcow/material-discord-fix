@@ -1,21 +1,5 @@
 :root {
-	--accent-color: #027963;
-	--accent-rgb: 94,122,199;
-	--accent-text-color:  #fff;
-	--accent-button-action: #027963;
-	--main-alt: #ffffff00;
-	
-	--avatar-radius: 50%;
-
-	--message-radius: 19px;
-	--message-padding: 8px 12px;
-	--message-padding-alt: 4px 12px 8px 12px;
-
-	--card-radius: 5px;
-	--card-radius-big: 10px;
-
 	--chat-color: #16171a;
-
 	--accent-hsl: #16171a00;
 }
 /* bg color change guilds */
