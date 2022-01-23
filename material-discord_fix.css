@@ -1,0 +1,50 @@
+:root {
+	--accent-color: #027963;
+	--accent-rgb: 94,122,199;
+	--accent-text-color:  #fff;
+	--accent-button-action: #027963; /*	-	*/
+	--main-alt: #ffffff00;
+	
+	--avatar-radius: 50%; /*	-	*/
+
+	--message-radius: 19px;
+	--message-padding: 8px 12px;
+	--message-padding-alt: 4px 12px 8px 12px; /*	-	*/
+
+	--card-radius: 5px;
+	--card-radius-big: 10px;
+
+	--chat-color: #16171a;
+
+	--accent-hsl: #16171a00;
+}
+/* bg color change guilds	*/
+.circleButtonMask-1_597P, .circleIconButton-1QV--U {
+    background-color: #ffffff00;
+}
+
+.wrapper-1BJsBx .childWrapper-anI2G9 {
+    background-color: #ffffff00;
+}
+
+.wrapper-1_HaEi .scroller-3X7KbA {
+    background-color: #16171a;
+}
+/*	fix for discord switches	*/
+.container-2nx-BQ[style*="43.9%"] {
+    background-color: rgba(158, 150, 150, 0.233) !important;
+}
+
+.container-2nx-BQ[style*="43.9%"] .slider-32CRPX {
+    background-color: #4285F4 !important;
+}
+/* fix end	*/
+
+/* fix bd switches	*/
+.bd-switch input:checked + .bd-switch-body {
+    --switch-color: #4f545c;
+}
+.bd-switch input:checked + .bd-switch-body .bd-switch-slider .bd-switch-handle {
+    fill: #4285F4;
+}
+/* fix end	*/
