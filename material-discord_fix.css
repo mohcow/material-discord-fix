@@ -32,3 +32,8 @@
     fill: #4285F4;
 }
 /* fix end */
+
+    .theme-dark {
+    --header-primary: #d01616;
+    --header-secondary: #1c4582;
+        }
